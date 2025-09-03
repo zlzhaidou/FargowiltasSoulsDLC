@@ -167,7 +167,7 @@ namespace FargowiltasSoulsDLC.Base.Items
                 .AddIngredient(ItemID.SuspiciousLookingTentacle)
                 .AddIngredient(ItemID.KingSlimePetItem)
                 .AddIngredient(ItemID.EyeOfCthulhuPetItem)
-                .AddIngredient(ItemID.EaterOfWorldsBossBag)
+                .AddIngredient(ItemID.EaterOfWorldsPetItem)
                 .AddIngredient(ItemID.BrainOfCthulhuPetItem)
                 .AddIngredient(ItemID.DeerclopsPetItem)
                 .AddIngredient(ItemID.QueenBeePetItem)
